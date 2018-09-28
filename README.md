@@ -2,4 +2,4 @@
 
 ## Meetup
 
-Upcoming meetups, details adn locations can be found at https://www.meetup.com/FullStackBuffalo/
+Upcoming meetups, details and locations can be found at https://www.meetup.com/FullStackBuffalo/
